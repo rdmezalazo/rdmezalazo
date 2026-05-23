@@ -1,4 +1,4 @@
-<h1 align="center">👋 Ronald Meza Lazo</h1>
+<h1 align="center"> ⚙️ Ronald Meza Lazo</h1>
 
 <h3 align="center">
 IT Leader | Cloud Infrastructure | AI & Data Analytics
