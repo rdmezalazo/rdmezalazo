@@ -32,55 +32,35 @@ Actualmente enfocado en proyectos relacionados con:
 
 ---
 
-<h2>🚀 Infraestructura & Cloud</h2>
+## 🚀 Infraestructura & Cloud
 
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</a>
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
-<a href="https://www.vmware.com/" target="_blank">
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-</a>
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
 ---
 
-<h2>💻 Desarrollo, Datos & IA</h2>
+## 💻 Desarrollo, Datos & IA
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-</a>
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</a>
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ---
 
-<h2>🔐 Seguridad & Infraestructura</h2>
+## 🔐 Seguridad & Infraestructura
 
-<a href="https://www.fortinet.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-</a>
+[![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com/)
 
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</a>
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</a>
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</a>
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ## 📚 Certificaciones & Formación
 
